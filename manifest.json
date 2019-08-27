@@ -28,6 +28,9 @@
         ],
         "extensions": {
             "location": "config/localextensions.xml",
+            "exclude": [
+               
+            ]
         },
         "solr": {
             "location": "[Solr custom folder]"
