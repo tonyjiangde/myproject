@@ -64,7 +64,7 @@
     <extension name='odata2webservicesfeaturetests' />
     <extension name='kymaintegrationbackoffice' />
     <extension name='kymaintegrationsampledata' />
-    <extension name='yb2bacceleratorstorefront' />
+   
     
   </extensions>
 </hybrisconfig>
